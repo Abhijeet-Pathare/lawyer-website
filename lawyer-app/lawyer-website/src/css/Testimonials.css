@@ -1,0 +1,22 @@
+.testimonials {
+  background-color: #f1f5f9;
+  padding: 70px 20px;
+  text-align: center;
+}
+
+.testimonials h2 {
+  color: #0b2c4a;
+  font-size: 28px;
+  margin-bottom: 30px;
+}
+
+.testimonials blockquote {
+  max-width: 700px;
+  margin: 15px auto;
+  font-style: italic;
+  font-size: 15px;
+  color: #334155;
+  padding: 15px 20px;
+  border-left: 4px solid #c9a24d;
+  background-color: #ffffff;
+}

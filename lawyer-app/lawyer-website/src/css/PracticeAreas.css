@@ -1,0 +1,28 @@
+.practice {
+  background-color: #f8fafc;
+  padding: 70px 20px;
+}
+
+.practice h2 {
+  text-align: center;
+  color: #0b2c4a;
+  font-size: 28px;
+  margin-bottom: 30px;
+}
+
+.practice ul {
+  max-width: 700px;
+  margin: auto;
+  list-style: none;
+  padding: 0;
+}
+
+.practice li {
+  background: #ffffff;
+  border-left: 5px solid #c9a24d;
+  margin-bottom: 12px;
+  padding: 14px 18px;
+  font-size: 15px;
+  color: #1e293b;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
+}
