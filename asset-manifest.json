@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lawyer-website/static/css/main.0f950b0e.css",
+    "main.js": "/lawyer-website/static/js/main.2fd9e8f1.js",
+    "static/js/453.f2961ae8.chunk.js": "/lawyer-website/static/js/453.f2961ae8.chunk.js",
+    "index.html": "/lawyer-website/index.html",
+    "main.0f950b0e.css.map": "/lawyer-website/static/css/main.0f950b0e.css.map",
+    "main.2fd9e8f1.js.map": "/lawyer-website/static/js/main.2fd9e8f1.js.map",
+    "453.f2961ae8.chunk.js.map": "/lawyer-website/static/js/453.f2961ae8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f950b0e.css",
+    "static/js/main.2fd9e8f1.js"
+  ]
+}
