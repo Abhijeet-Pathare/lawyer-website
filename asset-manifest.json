@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/lawyer-website/static/css/main.0f950b0e.css",
-    "main.js": "/lawyer-website/static/js/main.2fd9e8f1.js",
+    "main.css": "/lawyer-website/static/css/main.3e1f73f8.css",
+    "main.js": "/lawyer-website/static/js/main.0409f1f3.js",
     "static/js/453.f2961ae8.chunk.js": "/lawyer-website/static/js/453.f2961ae8.chunk.js",
     "index.html": "/lawyer-website/index.html",
-    "main.0f950b0e.css.map": "/lawyer-website/static/css/main.0f950b0e.css.map",
-    "main.2fd9e8f1.js.map": "/lawyer-website/static/js/main.2fd9e8f1.js.map",
+    "main.3e1f73f8.css.map": "/lawyer-website/static/css/main.3e1f73f8.css.map",
+    "main.0409f1f3.js.map": "/lawyer-website/static/js/main.0409f1f3.js.map",
     "453.f2961ae8.chunk.js.map": "/lawyer-website/static/js/453.f2961ae8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f950b0e.css",
-    "static/js/main.2fd9e8f1.js"
+    "static/css/main.3e1f73f8.css",
+    "static/js/main.0409f1f3.js"
   ]
 }
