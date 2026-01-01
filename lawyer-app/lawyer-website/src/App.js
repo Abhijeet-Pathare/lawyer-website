@@ -7,6 +7,7 @@ import Hero from './compnents/Hero';
 import Navbar from './compnents/Navbar';
 import PracticeAreas from './compnents/PracticeAreas';
 import Testimonials from './compnents/Testimonials';
+import WhatsAppFloat from './compnents/WhatsAppFloat';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
     <Experience />
     <Testimonials />
     <Contact />
+    <WhatsAppFloat />
     <Footer />
    </>
   );

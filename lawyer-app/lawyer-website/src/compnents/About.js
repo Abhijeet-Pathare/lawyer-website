@@ -8,7 +8,7 @@ function About() {
         Advocate Prasad Pathare has over 5 years of experience handling criminal,
         civil, and family law matters with integrity and professionalism.
       </p>
-      <p>Bar Council Registration No: MH/XXXX/2009</p>
+      {/* <p>Bar Council Registration No: MH/XXXX/2009</p> */}
     </section>
   );
 }
